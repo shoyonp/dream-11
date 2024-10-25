@@ -1,56 +1,101 @@
 [
   {
     "id": 1,
-    "name": "John Stone",
+    "name": "David Hughes",
     "country": "Australia",
     "price": 1200000,
-    "img": "https://example.com/images/johnstone.jpg",
-    "skill": "All-rounder",
-    "whichHand": "Right-hand batsman, Right-arm bowler"
+    "img": "https://example.com/images/davidhughes.jpg",
+    "role": "All-rounder",
+    "whichHand": "Right-hand batsman, Right-arm fast bowler"
   },
   {
     "id": 2,
-    "name": "Raj Malhotra",
+    "name": "Sandeep Mehra",
     "country": "India",
-    "price": 900000,
-    "img": "https://example.com/images/rajmalhotra.jpg",
-    "skill": "Batsman",
-    "whichHand": "Left-hand batsman"
-  },
-  {
-    "id": 3,
-    "name": "Liam Brown",
-    "country": "England",
-    "price": 1000000,
-    "img": "https://example.com/images/liambrown.jpg",
-    "skill": "Bowler",
-    "whichHand": "Right-arm fast bowler"
-  },
-  {
-    "id": 4,
-    "name": "Ahmed Rafiq",
-    "country": "Pakistan",
-    "price": 850000,
-    "img": "https://example.com/images/ahmedrafiq.jpg",
-    "skill": "All-rounder",
-    "whichHand": "Left-hand batsman, Right-arm spin bowler"
-  },
-  {
-    "id": 5,
-    "name": "Chris O'Donnell",
-    "country": "South Africa",
-    "price": 1300000,
-    "img": "https://example.com/images/chrisodonnell.jpg",
-    "skill": "Wicket-keeper Batsman",
+    "price": 950000,
+    "img": "https://example.com/images/sandeepmehra.jpg",
+    "role": "Batsman",
     "whichHand": "Right-hand batsman"
   },
   {
-    "id": 6,
-    "name": "Carlos Silva",
-    "country": "West Indies",
-    "price": 950000,
-    "img": "https://example.com/images/carlossilva.jpg",
-    "skill": "Bowler",
+    "id": 3,
+    "name": "Michael Thomson",
+    "country": "England",
+    "price": 1100000,
+    "img": "https://example.com/images/michaelthomson.jpg",
+    "role": "Wicket-keeper Batsman",
+    "whichHand": "Right-hand batsman"
+  },
+  {
+    "id": 4,
+    "name": "Ahmed Younis",
+    "country": "Pakistan",
+    "price": 850000,
+    "img": "https://example.com/images/ahmedyounis.jpg",
+    "role": "Bowler",
     "whichHand": "Left-arm fast bowler"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Mendes",
+    "country": "West Indies",
+    "price": 1300000,
+    "img": "https://example.com/images/carlosmendes.jpg",
+    "role": "All-rounder",
+    "whichHand": "Left-hand batsman, Right-arm off-spin"
+  },
+  {
+    "id": 6,
+    "name": "Liam O'Connor",
+    "country": "New Zealand",
+    "price": 1050000,
+    "img": "https://example.com/images/liamoconnor.jpg",
+    "role": "Bowler",
+    "whichHand": "Right-arm fast bowler"
+  },
+  {
+    "id": 7,
+    "name": "Sunil Varma",
+    "country": "India",
+    "price": 900000,
+    "img": "https://example.com/images/sunilvarma.jpg",
+    "role": "Batsman",
+    "whichHand": "Left-hand batsman"
+  },
+  {
+    "id": 8,
+    "name": "Bradley Simmons",
+    "country": "South Africa",
+    "price": 1200000,
+    "img": "https://example.com/images/bradleysimmons.jpg",
+    "role": "Bowler",
+    "whichHand": "Right-arm leg spin"
+  },
+  {
+    "id": 9,
+    "name": "Javed Khan",
+    "country": "Pakistan",
+    "price": 870000,
+    "img": "https://example.com/images/javedkhan.jpg",
+    "role": "All-rounder",
+    "whichHand": "Right-hand batsman, Left-arm spin bowler"
+  },
+  {
+    "id": 10,
+    "name": "Jacob Matthews",
+    "country": "England",
+    "price": 1150000,
+    "img": "https://example.com/images/jacobmatthews.jpg",
+    "role": "Batsman",
+    "whichHand": "Right-hand batsman"
+  },
+  {
+    "id": 11,
+    "name": "Ravi Chandran",
+    "country": "Sri Lanka",
+    "price": 950000,
+    "img": "https://example.com/images/ravichandran.jpg",
+    "role": "Bowler",
+    "whichHand": "Left-arm fast-medium bowler"
   }
 ]

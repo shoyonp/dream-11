@@ -1,7 +1,7 @@
 import logo from "../../assets/assets/logo.png";
 const Navbar = () => {
   return (
-    <div className="flex items-center justify-between mt-5 mb-6">
+    <div className="flex items-center justify-between mt-5 mb-10 sticky top-0 backdrop-blur">
       <img src={logo} alt="" />
       <div className="flex items-center gap-5">
         <ul className="hidden md:flex items-center gap-5">
