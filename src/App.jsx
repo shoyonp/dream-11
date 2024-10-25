@@ -1,11 +1,16 @@
 import './App.css'
+import Banner from './components/Banner/Banner'
+import Navbar from './components/Navbar/Navbar'
 
 function App() {
 
   return (
     <>
       
-      <h1 className='text-6xl bg-slate-400'>ok bye</h1>
+      <div className='w-11/12 mx-auto'>
+      <Navbar></Navbar>
+      <Banner></Banner>
+      </div>
       
     </>
   )

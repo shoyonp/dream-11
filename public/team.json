@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "John Stone",
+    "country": "Australia",
+    "price": 1200000,
+    "img": "https://example.com/images/johnstone.jpg",
+    "skill": "All-rounder",
+    "whichHand": "Right-hand batsman, Right-arm bowler"
+  },
+  {
+    "id": 2,
+    "name": "Raj Malhotra",
+    "country": "India",
+    "price": 900000,
+    "img": "https://example.com/images/rajmalhotra.jpg",
+    "skill": "Batsman",
+    "whichHand": "Left-hand batsman"
+  },
+  {
+    "id": 3,
+    "name": "Liam Brown",
+    "country": "England",
+    "price": 1000000,
+    "img": "https://example.com/images/liambrown.jpg",
+    "skill": "Bowler",
+    "whichHand": "Right-arm fast bowler"
+  },
+  {
+    "id": 4,
+    "name": "Ahmed Rafiq",
+    "country": "Pakistan",
+    "price": 850000,
+    "img": "https://example.com/images/ahmedrafiq.jpg",
+    "skill": "All-rounder",
+    "whichHand": "Left-hand batsman, Right-arm spin bowler"
+  },
+  {
+    "id": 5,
+    "name": "Chris O'Donnell",
+    "country": "South Africa",
+    "price": 1300000,
+    "img": "https://example.com/images/chrisodonnell.jpg",
+    "skill": "Wicket-keeper Batsman",
+    "whichHand": "Right-hand batsman"
+  },
+  {
+    "id": 6,
+    "name": "Carlos Silva",
+    "country": "West Indies",
+    "price": 950000,
+    "img": "https://example.com/images/carlossilva.jpg",
+    "skill": "Bowler",
+    "whichHand": "Left-arm fast bowler"
+  }
+]
