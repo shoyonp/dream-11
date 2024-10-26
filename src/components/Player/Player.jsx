@@ -6,8 +6,8 @@ const Player = ({ player, handleAddToSelected }) => {
   const { name, img, country, role, batting_style, bowling_style, price } =
     player;
   return (
-    <div className="">
-      <div className="border border-gray-200 rounded-2xl p-4 mb-10">
+    <div>
+      <div className="border border-gray-200 rounded-2xl p-4 mb-4">
         <div className="h-[200px]">
           <img
             className="h-full w-full rounded-2xl object-cover"
@@ -36,7 +36,7 @@ const Player = ({ player, handleAddToSelected }) => {
         <div className="flex justify-between items-center">
           <p className="font-semibold text-base">${price}</p>
           <button
-            onClick={() => handleAddToSelected(player,price,name)}
+            onClick={() => handleAddToSelected(player, price, name)}
             id="choose"
             className="text-sm"
           >

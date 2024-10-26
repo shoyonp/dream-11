@@ -3,7 +3,6 @@ import "./App.css";
 import Banner from "./components/Banner/Banner";
 import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar";
-import Newsletter from "./components/Newsletter/Newsletter";
 import DblComponent from "./components/DblComponent/DblComponent";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -74,8 +73,9 @@ function App() {
           />
         </div>
       </div>
+      <div className="mt-12">
       <Footer></Footer>
-      <Newsletter></Newsletter>
+      </div>
     </>
   );
 }

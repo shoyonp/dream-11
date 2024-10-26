@@ -3,7 +3,7 @@ import Select from "../Select/Select";
 
 const Selected = ({ addPlayers, handleISActiveState }) => {
   return (
-    <div className="mb-6">
+    <div className="mb-7">
       {addPlayers.map((addplayer,idx) => (
         <Select
           key={idx}
