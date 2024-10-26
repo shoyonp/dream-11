@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="bg-[#06091A] relative">
       <img className="mx-auto p-8" src={footerLogo} alt="" />
-      <div className="my-9 md:flex justify-between text-white w-11/12 mx-auto mb-4">
+      <div className="my-9 md:flex justify-between text-white w-10/12 mx-auto mb-4">
         <div className="mb-5">
           <h3>About Us</h3>
           <p className="font-normal text-xs opacity-60 w-48">

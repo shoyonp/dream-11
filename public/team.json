@@ -1,101 +1,112 @@
 [
   {
     "id": 1,
-    "name": "David Hughes",
-    "country": "Australia",
-    "price": 1200000,
-    "img": "https://example.com/images/davidhughes.jpg",
-    "role": "All-rounder",
-    "whichHand": "Right-hand batsman, Right-arm fast bowler"
+    "name": "Virat Kohli",
+    "country": "India",
+    "price": 1500000,
+    "img": "https://i.ibb.co.com/5s11rJX/d973a-17150616187538-1920.webp",
+    "role": "Batsman",
+    "batting_style": "Right-hand",
+    "bowling_style": ""
   },
   {
     "id": 2,
-    "name": "Sandeep Mehra",
+    "name": "MS Dhoni",
     "country": "India",
-    "price": 950000,
-    "img": "https://example.com/images/sandeepmehra.jpg",
-    "role": "Batsman",
-    "whichHand": "Right-hand batsman"
+    "price": 1400000,
+    "img": "https://i.ibb.co.com/KV23HPn/MS-Dhoni-1.webp",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand",
+    "bowling_style": ""
   },
   {
     "id": 3,
-    "name": "Michael Thomson",
-    "country": "England",
-    "price": 1100000,
-    "img": "https://example.com/images/michaelthomson.jpg",
-    "role": "Wicket-keeper Batsman",
-    "whichHand": "Right-hand batsman"
+    "name": "Hardik Pandya",
+    "country": "India",
+    "price": 1300000,
+    "img": "https://i.ibb.co.com/jvZ3Xxp/62947e5e5ad94.jpg",
+    "role": "All-rounder",
+    "batting_style": "Right-hand",
+    "bowling_style": "Right-arm fast-medium"
   },
   {
     "id": 4,
-    "name": "Ahmed Younis",
-    "country": "Pakistan",
-    "price": 850000,
-    "img": "https://example.com/images/ahmedyounis.jpg",
-    "role": "Bowler",
-    "whichHand": "Left-arm fast bowler"
+    "name": "Rohit Sharma",
+    "country": "India",
+    "price": 1450000,
+    "img": "https://i.ibb.co.com/0MdKhqf/Cricketer-Rohit-Sharma-2023.webp",
+    "role": "Batsman",
+    "batting_style": "Right-hand",
+    "bowling_style": ""
   },
   {
     "id": 5,
-    "name": "Carlos Mendes",
-    "country": "West Indies",
-    "price": 1300000,
-    "img": "https://example.com/images/carlosmendes.jpg",
-    "role": "All-rounder",
-    "whichHand": "Left-hand batsman, Right-arm off-spin"
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "price": 1200000,
+    "img": "https://i.ibb.co.com/02PFtX9/1703254043179-Shreyas-Iyer-in-KKR-dk5-F2-K.jpg",
+    "role": "Batsman",
+    "batting_style": "Right-hand",
+    "bowling_style": ""
   },
   {
     "id": 6,
-    "name": "Liam O'Connor",
-    "country": "New Zealand",
-    "price": 1050000,
-    "img": "https://example.com/images/liamoconnor.jpg",
-    "role": "Bowler",
-    "whichHand": "Right-arm fast bowler"
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "price": 1300000,
+    "img": "https://i.ibb.co.com/zmYgR3x/smartcrop.jpg",
+    "role": "All-rounder",
+    "batting_style": "Left-hand",
+    "bowling_style": "Left-arm orthodox spin"
   },
   {
     "id": 7,
-    "name": "Sunil Varma",
-    "country": "India",
-    "price": 900000,
-    "img": "https://example.com/images/sunilvarma.jpg",
-    "role": "Batsman",
-    "whichHand": "Left-hand batsman"
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "price": 1150000,
+    "img": "https://i.ibb.co.com/bWfY9WR/Liton-Dash.webp",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand",
+    "bowling_style": ""
   },
   {
     "id": 8,
-    "name": "Bradley Simmons",
-    "country": "South Africa",
-    "price": 1200000,
-    "img": "https://example.com/images/bradleysimmons.jpg",
-    "role": "Bowler",
-    "whichHand": "Right-arm leg spin"
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "price": 1250000,
+    "img": "https://i.ibb.co.com/M80TDHH/tamim-iqbal-odi-squad-16-02-2023.jpg",
+    "role": "Batsman",
+    "batting_style": "Left-hand",
+    "bowling_style": ""
   },
   {
     "id": 9,
-    "name": "Javed Khan",
-    "country": "Pakistan",
-    "price": 870000,
-    "img": "https://example.com/images/javedkhan.jpg",
-    "role": "All-rounder",
-    "whichHand": "Right-hand batsman, Left-arm spin bowler"
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "price": 1100000,
+    "img": "https://i.ibb.co.com/PjZLHz5/Mushfiquer-Rahim-Announced-Retirement.jpg",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand",
+    "bowling_style": ""
   },
   {
     "id": 10,
-    "name": "Jacob Matthews",
-    "country": "England",
-    "price": 1150000,
-    "img": "https://example.com/images/jacobmatthews.jpg",
-    "role": "Batsman",
-    "whichHand": "Right-hand batsman"
+    "name": "Mahmudullah",
+    "country": "Bangladesh",
+    "price": 1050000,
+    "img": "https://i.ibb.co.com/Jm4HY8D/mahmudullah-1200.jpg",
+    "role": "All-rounder",
+    "batting_style": "Right-hand",
+    "bowling_style": "Right-arm off-spin"
   },
   {
     "id": 11,
-    "name": "Ravi Chandran",
-    "country": "Sri Lanka",
-    "price": 950000,
-    "img": "https://example.com/images/ravichandran.jpg",
+    "name": "Yuzvendra Chahal",
+    "country": "India",
+    "price": 1100000,
+    "img": "https://i.ibb.co.com/XZPPY3z/yuzvendra-chahal-rcb-ipl.webp",
     "role": "Bowler",
-    "whichHand": "Left-arm fast-medium bowler"
+    "batting_style": "Right-hand",
+    "bowling_style": "Right-arm leg spin"
   }
 ]
