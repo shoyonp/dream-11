@@ -1,7 +1,7 @@
 import "./Newsletter.css";
 const Newsletter = () => {
   return (
-    <div className=" hidden border rounded-3xl w-10/12 p-3 backdrop-blur absolute bottom-5 left-4 md:left-9 lg:left-16">
+    <div className=" border rounded-3xl w-10/12 p-3 backdrop-blur absolute bottom-5 left-8 md:left-[76px] lg:left-[127px] -bottom-96">
       <div id="newsbg" className="text-center ">
         <div className="p-12">
           <h2 className="font-bold text-2xl mb-4">

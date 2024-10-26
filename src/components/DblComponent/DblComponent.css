@@ -1,0 +1,12 @@
+.available {
+  border-radius: 50px 0 0 50px;
+  background: white;
+}
+.selected {
+  border-radius: 0 50px 50px 0;
+  background-color: white;
+}
+
+.active {
+  background-color: greenyellow;
+}
