@@ -1,4 +1,5 @@
 - My projects name is Dream 11
+live link : https://starlit-panda-36704a.netlify.app/
 
 - This is an Cricket Players related project where you can make your dream team . In this you can buy players which you want.
 you can also delete player from your team an one more thing before buying a player you must have credits in your account ,
