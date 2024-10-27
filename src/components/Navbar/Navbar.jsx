@@ -1,5 +1,6 @@
 import PropTypes from "prop-types";
 import logo from "../../assets/assets/logo.png";
+import { FaBars, FaCoins } from "react-icons/fa";
 const Navbar = ({ coins }) => {
   return (
     <div className="flex items-center justify-between mt-5 mb-10 sticky top-0 backdrop-blur">
@@ -11,9 +12,10 @@ const Navbar = ({ coins }) => {
           <li>Teams</li>
           <li>Schedules</li>
         </ul>
-        <p className="border rounded-xl p-2 text-base font-semibold">
-          {coins} coin
+        <p className="border rounded-xl p-2 text-base font-semibold flex gap-1 items-center">
+          {coins} coin <span className="text-sm"><FaCoins></FaCoins></span>
         </p>
+        <span className="md:hidden"><FaBars></FaBars></span>
       </div>
     </div>
   );
