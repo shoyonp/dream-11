@@ -12,6 +12,7 @@ h3{
 .move{
     background-image: url('../../assets//assets/bg-shadow.png');
     position: absolute;
+    background-repeat: no-repeat;
     top:-20%;
     left: 8%;
 }

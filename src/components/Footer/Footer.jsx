@@ -27,7 +27,9 @@ const Footer = () => {
           </div>
         </div>
         <div className="p-16">
-          <div className="mt-10"><img className="mx-auto p-8" src={footerLogo} alt="" /></div>
+          <div className="mt-10">
+            <img className="mx-auto p-8" src={footerLogo} alt="" />
+          </div>
           <div className="my-9 md:flex justify-between text-white w-10/12 mx-auto mb-4">
             <div className="mb-5">
               <h3>About Us</h3>
@@ -69,15 +71,13 @@ const Footer = () => {
                 <button id="subscribe">Subscribe</button>
               </div>
             </div>
-            </div>
-        <hr />
-        <p className="font-normal text-xs text-white opacity-60 text-center p-5">
-          @2024 Your Company All Rights Reserved.
-        </p>
-      </div>
           </div>
-
-        
+          <hr />
+          <p className="font-normal text-xs text-white opacity-60 text-center p-5">
+            @2024 Your Company All Rights Reserved.
+          </p>
+        </div>
+      </div>
     </>
   );
 };
