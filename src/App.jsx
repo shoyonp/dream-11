@@ -13,7 +13,7 @@ function App() {
 
   const handleAddCoins = () => {
     toast.success("Credit Added to your Account");
-    let coin = 2000000;
+    let coin = 20000000;
     const newCoin = coin + coins;
     setCoins(newCoin);
   };
@@ -74,7 +74,7 @@ function App() {
         </div>
       </div>
       <div className="mt-12">
-      <Footer></Footer>
+        <Footer></Footer>
       </div>
     </>
   );

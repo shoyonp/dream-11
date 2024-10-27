@@ -11,8 +11,8 @@ const DblComponent = ({
 }) => {
   return (
     <div>
-      <div className="text-center md:flex justify-between">
-        <h2 className="text-3xl font-bold mb-3">Available Players</h2>
+      <div className="text-center md:flex justify-end">
+        {/* <h2 className="text-3xl font-bold mb-3">Available Players</h2> */}
         <div>
           <button
             onClick={() => handleISActiveState("player")}
